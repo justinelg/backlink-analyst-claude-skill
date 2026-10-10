@@ -13,8 +13,8 @@ It helps marketers, founders, agencies and SEO professionals:
 
 ## Install
 
-1. Download this repository.
-2. Copy the `backlink-analyst` folder into your Claude Skills directory.
+1. Download [backlink-analyst-free.skill](backlink-analyst-free.skill).
+2. Import the file into Claude as a custom Skill.
 3. Start a conversation about backlinks, off-page SEO, outreach or competitor links.
 
 The skill will collect the missing site context and guide the analysis.
@@ -28,6 +28,8 @@ The skill will collect the missing site context and guide the analysis.
 - Which page on my site should this backlink point to?
 
 ## What is included
+
+The downloadable package contains:
 
 ```text
 backlink-analyst/
